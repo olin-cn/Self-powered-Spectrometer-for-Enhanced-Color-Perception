@@ -76,9 +76,9 @@ TensorFlow >= 2.x
 
 MATLAB 
 
+```
 
-
-**##### \# Repository Structure**
+##### \# Repository Structure
 
 .
 
