@@ -80,7 +80,7 @@ MATLAB
 
 ##### \# Repository Structure
 
-.
+```
 
 ├── monochromatic\_spectra\_reconstruction/
 
